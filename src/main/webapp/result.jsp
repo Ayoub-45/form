@@ -1,3 +1,5 @@
+<jsp:useBean id="email" scope="request" type="java.lang.String"/>
+<jsp:useBean id="name" scope="request" type="java.lang.String"/>
 <!DOCTYPE html>
 <html>
 <head>
